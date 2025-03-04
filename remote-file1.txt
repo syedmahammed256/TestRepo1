@@ -1,0 +1,1 @@
+This sample file is created in remote repository from TestRepo1 to sync with local repo through visual studio code
